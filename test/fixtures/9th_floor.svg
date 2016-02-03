@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="780px"
+	 height="420px" viewBox="0 0 780 420" enable-background="new 0 0 780 420" xml:space="preserve">
+
+    <style type="text/css"><![CDATA[
+        svg {
+            background: url(9th-floor-mockup.png);
+            background-size: 780px 420px;
+            background-repeat: no-repeat;
+        }
+        .mute {
+            stroke: gray;
+        }
+        line {
+            stroke-width: 2px;
+            stroke: black;
+        }
+    ]]></style>
+
+    <!-- outer wall -->
+    <rect class="mute" id="outer-building-wall" fill="none" stroke-width="4" x="2" y="2" width="772" height="412" rx="20" ry="20" />
+
+    <!-- horizontal lines -->
+    <line x1="90" y1="110" x2="137" y2="110"/>
+    <line x1="149" y1="110" x2="157" y2="110"/>
+    <line x1="169" y1="110" x2="210" y2="110"/>
+    <line x1="220" y1="110" x2="227" y2="110"/>
+    <line x1="237" y1="110" x2="282" y2="110"/>
+    <line x1="290" y1="110" x2="296" y2="110"/>
+    <line x1="306" y1="110" x2="334" y2="110"/>
+    <line x1="344" y1="110" x2="350" y2="110"/>
+    <line x1="360" y1="110" x2="407" y2="110"/>
+    <line x1="417" y1="110" x2="426" y2="110"/>
+    <line x1="486" y1="110" x2="512" y2="110"/>
+    <line x1="522" y1="110" x2="530" y2="110"/>
+    <line x1="539" y1="110" x2="568" y2="110"/>
+    <line x1="522" y1="110" x2="530" y2="110"/>
+    <line x1="577" y1="110" x2="622" y2="110"/>
+    <line x1="636" y1="110" x2="685" y2="110"/>
+
+    <!-- horizontal lines -->
+    <line x1="90" y1="157" x2="296" y2="157"/>
+    <line x1="306" y1="157" x2="426" y2="157"/>
+    <line x1="485" y1="157" x2="567" y2="157"/>
+    <line x1="579" y1="157" x2="685" y2="157"/>
+
+    <!-- horizontal lines -->
+    <line x1="108" y1="169" x2="129" y2="169"/>
+    <line x1="139" y1="169" x2="147" y2="169"/>
+    <line x1="157" y1="169" x2="443" y2="169"/>
+    <line x1="471" y1="169" x2="568" y2="169"/>
+    <line x1="578" y1="169" x2="635" y2="169"/>
+    <line x1="645" y1="169" x2="652" y2="169"/>
+    <line x1="657" y1="169" x2="665" y2="169"/>
+    <line x1="681" y1="169" x2="685" y2="169"/>
+
+</svg>
